@@ -1,0 +1,40 @@
+
+
+/* article text */
+
+span.text {
+	text-align: justify;
+	margin:	10px 10px 10px;
+}
+span.text a {
+	color: #cc3366;
+}
+
+span.text em {
+	color: #cc3366;
+	font-weight: bold;
+}
+
+.lede {
+	font-weight: bold;
+}
+
+blockquote {
+	margin-left: 40px;
+	color: #4C2A36;
+}
+
+.credit {
+	padding-top: 20px;
+}
+
+.credit p {
+	text-align: right;
+	font-size: 19px;
+}
+
+.plus-image {
+	float: right;
+	width: 470px;
+	padding: 20px;
+}
